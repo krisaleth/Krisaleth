@@ -35,12 +35,9 @@ I am a third-year IT student with a strong foundation in logical thinking and a 
 
 ## 📬 Connect with me
 
-I am currently open to **Internship opportunities** and technical collaborations. Let's get in touch!
-
-- **LinkedIn:** [linkedin.com/in/kim-tam](https://linkedin.com/in/kim-tam)
-- **Email:** [kimngoctam15@gmail.com](mailto:kimngoctam15@gmail.com)
-- **LeetCode Profile:** [leetcode.com/u/krisaleth](https://leetcode.com/u/krisaleth)
-- **Location:** Hanoi, Vietnam
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kim-tam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimngoctam15@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/krisaleth)
 
 ---
 
