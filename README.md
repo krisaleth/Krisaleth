@@ -38,7 +38,7 @@ I am a third-year IT student with a strong foundation in logical thinking and a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kim-tam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimngoctam15@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/krisaleth)
-[![Facebook](https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/esperanza.prog/)
+[![Facebook](https://img.shields.io/badge/-@Krisaleth-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/esperanza.prog/)
 
 ---
 
