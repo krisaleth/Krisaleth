@@ -1,52 +1,45 @@
-## About Me
+# Hi there, I'm Krisaleth 👋 
+### Backend Developer | Java & Spring Boot Enthusiast
 
-I am a third-year IT student with a strong foundation in logical thinking and a growing passion for Data Science. My journey in technology is driven by the goal of transforming raw data into actionable insights through efficient code.
-
-### What I bring to the table:
-- **Problem Solving:** Successfully conquered **43+ LeetCode challenges** using Java, focusing on optimizing algorithmic complexity and mastering data structures.
-- **System Thinking:** Developed a **Personal Finance Ecosystem** from scratch, connecting a mobile UI (AppSheet) with cloud storage (Google Sheets) to ensure clean data collection.
-- **Adaptability:** Transitioning from a strong Java background into **Python for Data Analysis**, with a commitment to continuous learning and precision.
-
-### Current Focus:
-- Mastering **Pandas & Matplotlib** for exploratory data analysis.
-- Scaling my algorithmic problem-solving to **100+ challenges**.
-- Seeking an **Internship** where I can contribute my logic and data-handling skills.
-
----
-*I believe that every line of code should solve a problem, and every piece of data has a story to tell.*
-
-## Technical Stack
-
-### 💻 Programming & Logic
-- **Languages:** ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; (Strong in Data Structures & Algorithms), ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; (Data Analysis - Intermediate).
-- **Problem Solving:** 43+ LeetCode problems solved with a focus on Time & Space optimization.
-
-### 📊 Data Analysis & Visualization
-- **Data Tools:** Microsoft Excel (Pivot Tables, Data Validation), Google Sheets.
-- **Python Libraries:** Pandas, NumPy (Basic), Matplotlib (Learning).
-- **Database:** SQL (Foundational).
-
-### 🛠 Tools & Systems
-- **Mobile UI:** AppSheet (No-code Development).
-- **Automation:** Google Apps Script, Git/GitHub, Docker.
-- **Workflow:** Data Pipeline design (from Mobile Collection to Cloud Storage).
+I am a Backend Developer focused on building scalable, efficient systems and optimizing server-side logic. Currently, I'm honing my skills in system architecture and DevOps.
 
 ---
 
-## 📬 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kim-tam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimngoctam15@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/krisaleth)
-[![Facebook](https://img.shields.io/badge/-@Krisaleth-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/esperanza.prog/)
+### 🚀 About Me
+- 🔭 I’m currently working on a **Bookstore Management System** (Spring Boot & Next.js).
+- 🌱 I’m deep-diving into **Microservices, Docker, and Database Optimization**.
+- ☁️ Exploring cloud deployment and CI/CD pipelines.
+- 💬 Ask me about: **Java, Spring Framework, RESTful APIs.**
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🛠 Tech Stack
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frameworks:** ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+- **DevOps & Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/Krisaleth">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krisaleth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krisaleth&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+---
+
+### 📊 GitHub Stats
+![Krisaleth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krisaleth&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisaleth&layout=compact&theme=tokyonight)
+
+---
+
+### 🌟 Featured Projects
+#### [Bookstore Management System](https://github.com/Krisaleth/bookstore)
+Một ứng dụng toàn diện quản lý cửa hàng sách với kiến trúc tách biệt Front-end và Back-end.
+- **Backend:** Spring Boot (RESTful API, Spring Security).
+- **Deployment:** Dockerized for consistent environment setup.
+- **Key achievement:** Thiết kế luồng dữ liệu tối ưu giữa Client và Server.
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](URL_LINKEDIN_CỦA_BẠN)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](ID_DISCORD_CỦA_BẠN)
+[![Beacons](https://img.shields.io/badge/-Beacons-FF5733?style=flat&logo=google-chrome&logoColor=white)](URL_BEACONS_CỦA_BẠN)
+
+---
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
