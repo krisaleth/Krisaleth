@@ -22,8 +22,12 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 ---
 
 ### 📊 GitHub Stats
-![Krisaleth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krisaleth&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisaleth&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/Krisaleth">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krisaleth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krisaleth&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ---
 
@@ -37,9 +41,9 @@ Một ứng dụng toàn diện quản lý cửa hàng sách với kiến trúc 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](URL_LINKEDIN_CỦA_BẠN)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](ID_DISCORD_CỦA_BẠN)
-[![Beacons](https://img.shields.io/badge/-Beacons-FF5733?style=flat&logo=google-chrome&logoColor=white)](URL_BEACONS_CỦA_BẠN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-tam/?locale=vi_VN)
+[![Krisaleth](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)]()
+[![Beacons](https://img.shields.io/badge/-Beacons-FF5733?style=flat&logo=google-chrome&logoColor=white)](https://beacons.ai/zxcode0137)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
