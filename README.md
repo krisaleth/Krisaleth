@@ -31,7 +31,7 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 
 ---
 
-### Contribution
+### 🚀 My Coding Journey
 <p align="center">
   <img src="./game.gif" alt="My GitHub Game" width="100%">
 </p>
