@@ -51,6 +51,7 @@ A comprehensive window management application with a split front-end and back-en
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-tam/?locale=vi_VN)
 [![Krisaleth](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)]()
 [![Beacons](https://img.shields.io/badge/-Beacons-FF5733?style=flat&logo=google-chrome&logoColor=white)](https://beacons.ai/zxcode0137)
+[![Profile](https://img.shields.io/badge/-Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://krisaleth.github.io)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
