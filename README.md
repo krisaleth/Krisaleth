@@ -31,6 +31,13 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 
 ---
 
+### Contribution
+![My GitHub Game](game.gif)
+
+---
+
+---
+
 ### 🌟 Featured Projects
 #### [Bookstore Management System](https://github.com/Krisaleth/bookstore)
 A comprehensive window management application with a split front-end and back-end architecture.
