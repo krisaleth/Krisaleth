@@ -43,7 +43,7 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 A comprehensive window management application with a split front-end and back-end architecture.
 - **Backend:** Spring Boot (RESTful API, Spring Security).
 - **Deployment:** Dockerized for consistent environment setup.
-- **Key achievement:** Thiết kế luồng dữ liệu tối ưu giữa Client và Server.
+- **Key achievement:** Design an optimal data flow between the client and server.
 
 ---
 
