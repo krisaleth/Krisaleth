@@ -39,7 +39,7 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 ---
 
 ### 🌟 Featured Projects
-#### [Bookstore Management System](https://github.com/Krisaleth/bookstore)
+#### [Bookstore Management System](https://github.com/krisaleth/bookstore-management)
 A comprehensive window management application with a split front-end and back-end architecture.
 - **Backend:** Spring Boot (RESTful API, Spring Security).
 - **Deployment:** Dockerized for consistent environment setup.
