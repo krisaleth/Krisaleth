@@ -6,10 +6,10 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on a **Bookstore Management System** (Spring Boot & Next.js).
-- 🌱 I’m deep-diving into **Microservices, Docker, and Database Optimization**.
-- ☁️ Exploring cloud deployment and CI/CD pipelines.
-- 💬 Ask me about: **Java, Spring Framework, RESTful APIs.**
+- 🔭 I’m currently working on **Scriptify** (A High-Performance Backend Platform).
+- 🌱 I’m deep-diving into **Microservices, Database Optimization, and System Design**.
+- ☁️ Exploring cloud deployment, containerization, and CI/CD pipelines.
+- 💬 Ask me about: **Java, Spring Boot, RESTful APIs, and Clean Architecture.**
 
 ---
 
@@ -39,11 +39,12 @@ I am a Backend Developer focused on building scalable, efficient systems and opt
 ---
 
 ### 🌟 Featured Projects
-#### [Bookstore Management System](https://github.com/krisaleth/bookstore-management)
-A comprehensive window management application with a split front-end and back-end architecture.
-- **Backend:** Spring Boot (RESTful API, Spring Security).
-- **Deployment:** Dockerized for consistent environment setup.
-- **Key achievement:** Design an optimal data flow between the client and server.
+#### [Scriptify](https://github.com/krisaleth/scriptify)
+A high-performance backend automation and script management platform designed with modularity and clean system design principles in mind.
+- **Backend Architecture:** Spring Boot (RESTful APIs, Spring Security with JWT, Stateless Authentication).
+- **Data & Optimization:** Focuses on clean entity relationships, optimized schema layout, and efficient query execution patterns.
+- **Infrastructure:** Fully Dockerized development ecosystem, configured for consistent containerized setup and environment parity.
+- **Key achievement:** Engineered a decouple-ready system structure adhering strictly to SOLID principles, establishing a solid foundation for future microservices migration.
 
 ---
 
